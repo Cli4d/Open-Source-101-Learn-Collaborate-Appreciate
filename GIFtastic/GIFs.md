@@ -28,9 +28,9 @@ You can use any topic that you want, as long as it is appropriate and relevant f
 
 To find a GIF that you want to add, you can use one of the following sources:
 
-- [GIPHY](): This is a popular platform that offers a huge collection of GIFs for various categories and topics. You can search for a GIF that matches your interest and copy the URL from the address bar or right-click on the GIF and select "Copy image address".
-- [Tenor]: This is another platform that provides a wide range of GIFs for different occasions and moods. You can browse or search for a GIF that suits your purpose and copy the URL from the address bar or right-click on the GIF and select "Copy image address".
-- [Other Sources]: You can also use other sources that offer GIFs, such as [Reddit], [Tumblr], [Imgur], etc. Just make sure that the URL ends with .gif and that the GIF is appropriate for this project.
+- [GIPHY](https://giphy.com/): This is a popular platform that offers a huge collection of GIFs for various categories and topics. You can search for a GIF that matches your interest and copy the URL from the address bar or right-click on the GIF and select "Copy image address".
+- [Tenor](https://tenor.com/search/tenor-gifs): This is another platform that provides a wide range of GIFs for different occasions and moods. You can browse or search for a GIF that suits your purpose and copy the URL from the address bar or right-click on the GIF and select "Copy image address".
+- Other Sources: You can also use other sources that offer GIFs, such as [Reddit], [Tumblr], [Imgur], etc. Just make sure that the URL ends with .gif and that the GIF is appropriate for this project.
 
 ## Categories
 
