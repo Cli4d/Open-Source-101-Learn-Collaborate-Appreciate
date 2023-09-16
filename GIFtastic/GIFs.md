@@ -18,14 +18,11 @@ Added by: Your Name
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
 
-```markdown
 ### Cats
 
 ![GIF](https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif)
 
 Added by: Clifford Ouma
-
-```
 
 You can use any topic that you want, as long as it is appropriate and relevant for this project. You can also create new categories or subcategories if they don't exist yet.
 
