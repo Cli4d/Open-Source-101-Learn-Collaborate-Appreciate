@@ -18,11 +18,17 @@ Added by: Your Name
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
 
-### Cats
+### MONEYMINDS
+![$$](https://media.giphy.com/media/VV39rWFojtqYD0UlHY/giphy.gif)
+![$chart](https://media.giphy.com/media/Auhvsp2K3B8j0HiurA/giphy.gif)
 
-![GIF](https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif)
+![FX](https://media.giphy.com/media/Gx8FswADdeMIhsa3YN/giphy.gif)
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV6bGpjMnl1ZWRjY2pmdHkydWo5ZGI3a3k3cmVvYm5zZDh1bm03NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/moLThsnVIgqIjp3B91/giphy.gif)
 
 Added by: Clifford Ouma
+![GIF](https://media1.giphy.com/media/osAcIGTSyeovPq6Xph/giphy.webp?cid=ecf05e470kp0katbinaonlbkaogz9f1gcgtl5krivkwrtobc&ep=v1_gifs_related&rid=giphy.webp&ct=g)
+Added by: Fernado
+
 
 You can use any topic that you want, as long as it is appropriate and relevant for this project. You can also create new categories or subcategories if they don't exist yet.
 
@@ -35,13 +41,14 @@ To find a GIF that you want to add, you can use one of the following sources:
 ## Categories
 
 Here are some categories that you can use to add your GIFs. Feel free to add more categories or subcategories as you wish.
-
 ### Funny
 
 This category is for GIFs that make you laugh or smile. You can use any subcategory that relates to humor, such as jokes, pranks, fails, memes, etc.
 
 ### Movies
+ ![GIF](https://giphy.com/clips/HrithikRoshan-good-morning-wake-up-alarm-kvHd9YExkyQaRDvOdP)
 
+Added by :Fernado
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
 
 ### Superheros
