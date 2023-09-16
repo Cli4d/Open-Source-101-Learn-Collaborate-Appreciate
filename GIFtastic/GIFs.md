@@ -6,19 +6,24 @@ This is a markdown file where you can add your favorite GIFs of various categori
 
 To add a GIF to this file, you need to follow this format:
 
-```markdown
 
-### Topic
 
-![GIF](url)
+### one thousand currency
 
-Added by: Your Name
+![GIF](https://media.giphy.com/media/LwmYLxX5OWXIg5GuOx/giphy.gif)
 
-```
+
+Added by: Bonuke King
+
+![GIF](https://media.giphy.com/media/4KFvuA2LmYYVv46CNN/giphy.gif)
+
+Added by: Bonuke King
+
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
 
 ### Cats
+
 
 ![GIF](https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif)
 
