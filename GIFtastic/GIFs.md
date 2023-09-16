@@ -8,11 +8,11 @@ To add a GIF to this file, you need to follow this format:
 
 ```markdown
 
-### Topic
+### spider man
 
-![GIF](url)
+![GIF](https://media.giphy.com/media/rj12FejFUysTK/giphy.gif)
 
-Added by: Your Name
+Added by: Your Name julius
 
 ```
 
