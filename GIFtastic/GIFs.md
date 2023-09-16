@@ -43,7 +43,8 @@ This category is for GIFs that make you laugh or smile. You can use any subcateg
 ### Movies
 
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
-![marvel](https://giphy.com/clips/buzzfeed-mcu-buzzfeed-celeb-chris-hemsworth-AHnb55HkVQ8uO9UL3p)
+
+![marvel](https://media.giphy.com/media/vBjLa5DQwwxbi/giphy.gif)
 Added by: James Ngandu
 
 ### Superheros
