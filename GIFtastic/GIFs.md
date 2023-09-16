@@ -48,6 +48,14 @@ This category is for GIFs that relate to movies or TV shows. You can use any sub
 
 This category is for GIFs that relate to superheros or comic books. You can use any subcategory that relates to characters, powers, costumes, etc.
 
+![GIF](https://media1.giphy.com/media/FiBzv5FRE85PO/200w.webp?cid=ecf05e47lw39tsbrntmcixq7pbafuw72zy396ctz6lw1wafl&ep=v1_gifs_search&rid=200w.webp&ct=g)
+
+Added by: Dickson
 ### Animals
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
+
+
+![GIF](https://media3.giphy.com/media/OqFpgF7bet1sRoCmpb/200w.webp?cid=ecf05e47er4rr0c0b8ykaddo99pld7ivabmj2oms1pms9w26&ep=v1_gifs_search&rid=200w.webp&ct=g)
+
+Added by: Dickson
