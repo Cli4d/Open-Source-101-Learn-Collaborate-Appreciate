@@ -24,6 +24,11 @@ For example, if you want to add a GIF of a funny cat under the category of Anima
 
 Added by: Clifford Ouma
 
+### shocked
+![GIF](https://media.giphy.com/media/xRcki9r2Y3x6mINlEj/giphy.gif)
+
+Added by: Collins Kegode
+
 You can use any topic that you want, as long as it is appropriate and relevant for this project. You can also create new categories or subcategories if they don't exist yet.
 
 To find a GIF that you want to add, you can use one of the following sources:
