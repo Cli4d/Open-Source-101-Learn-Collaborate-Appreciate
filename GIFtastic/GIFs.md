@@ -40,10 +40,6 @@ Here are some categories that you can use to add your GIFs. Feel free to add mor
 
 This category is for GIFs that make you laugh or smile. You can use any subcategory that relates to humor, such as jokes, pranks, fails, memes, etc.
 
-
-![menions](https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif)
-![spongebob and patrick](https://media.giphy.com/media/8qDzzyxbcfimY/giphy.gif)
-
 ### Movies
 
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
@@ -55,11 +51,3 @@ This category is for GIFs that relate to superheros or comic books. You can use 
 ### Animals
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
-
-
-### CARS
-This category of GIFS is for the car enthusiasts who love the comfort and perfomanace of the four-wheeled machines. 
-
-![G-WAGON MERCEDES"I LOVE IT"](https://media.giphy.com/media/0LrlDkl1Ze2UK35nKy/giphy.gif)
-
-![lets see how an audi looks like](https://media.giphy.com/media/3o6gb1kGewr6yDAEq4/giphy.gif)
