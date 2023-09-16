@@ -51,3 +51,9 @@ This category is for GIFs that relate to superheros or comic books. You can use 
 ### Animals
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
+
+### Kenya Sports
+
+![athlete winning race](https://giphy.com/gifs/forum-ft-fetty-7055aYbIwCxH2)
+
+Added by: Meshack Kipchirchir 
