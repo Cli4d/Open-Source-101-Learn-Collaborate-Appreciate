@@ -6,15 +6,14 @@ This is a markdown file where you can add your favorite GIFs of various categori
 
 To add a GIF to this file, you need to follow this format:
 
-```markdown
 
-### Topic
 
-![GIF](url)
+### gaming
 
-Added by: Your Name
+![gaming](https://media.giphy.com/media/3ohs7JkCdGpFf3A5Fe/giphy.gif)
 
-```
+Added by: elvis
+
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
 
@@ -23,6 +22,10 @@ For example, if you want to add a GIF of a funny cat under the category of Anima
 ![GIF](https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif)
 
 Added by: Clifford Ouma
+
+
+
+
 
 You can use any topic that you want, as long as it is appropriate and relevant for this project. You can also create new categories or subcategories if they don't exist yet.
 
@@ -41,6 +44,8 @@ Here are some categories that you can use to add your GIFs. Feel free to add mor
 This category is for GIFs that make you laugh or smile. You can use any subcategory that relates to humor, such as jokes, pranks, fails, memes, etc.
 
 ### Movies
+![moves](https://media.giphy.com/media/3ohs7JkCdGpFf3A5Fe/giphy.gif)
+Added by: FELIX LIMO
 
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
 
