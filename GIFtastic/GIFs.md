@@ -43,7 +43,7 @@ This category is for GIFs that make you laugh or smile. You can use any subcateg
 ### Movies
 
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
-![marvel](https://giphy.com/clips/reaction-movie-marvel-lXGk9jRH7NFBE5d1SE/giphy.gif)
+![marvel](https://giphy.com/clips/reaction-movie-marvel-lXGk9jRH7NFBE5d1SE)
 Added by: James Ngandu
 
 ### Superheros
