@@ -18,8 +18,11 @@ Added by: Your Name
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
 
-### Cats
+### MONEYMINDS
+![$$](https://media.giphy.com/media/VV39rWFojtqYD0UlHY/giphy.gif)
+![$chart](https://media.giphy.com/media/Auhvsp2K3B8j0HiurA/giphy.gif)
 
+![FX](https://media.giphy.com/media/Gx8FswADdeMIhsa3YN/giphy.gif)
 ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV6bGpjMnl1ZWRjY2pmdHkydWo5ZGI3a3k3cmVvYm5zZDh1bm03NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/moLThsnVIgqIjp3B91/giphy.gif)
 
 Added by: Clifford Ouma
