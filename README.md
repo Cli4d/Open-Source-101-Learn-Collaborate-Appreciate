@@ -13,4 +13,4 @@ Welcome to GIFtastic, a fun and simple project where you can add your favorite G
 This project is open for contributions from anyone who loves GIFs and wants to share them with others. You can contribute in the following way:
 
 Adding GIFs to the `GIFs.md` file in the `GIFtastic` directory.
-To contribute to this project, please follow the steps in the [CONTRIBUTING] file.
+To contribute to this project, please follow the steps in the [CONTRIBUTING](/CONTRIBUTING.md) file.
