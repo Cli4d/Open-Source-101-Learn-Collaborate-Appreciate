@@ -8,7 +8,8 @@ To add a GIF to this file, you need to follow this format:
 
 
 
-### one thousand currency
+### one thousand currency moeney and hype
+
 
 ![GIF](https://media.giphy.com/media/LwmYLxX5OWXIg5GuOx/giphy.gif)
 
