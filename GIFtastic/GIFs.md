@@ -51,3 +51,13 @@ This category is for GIFs that relate to superheros or comic books. You can use 
 ### Animals
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
+
+### G.O.A.T.S
+
+![RONALDO](https://media.giphy.com/media/ocXjZoA4Eg6D01QA3r/giphy.gif)
+
+![MESSI](https://media.giphy.com/media/dUQL2bKltOU7cO9Maw/giphy.gif)
+
+![KIPCHOGE](https://media.giphy.com/media/ZbU05heJXilU7YDvYM/giphy.gif)
+
+Added by: Shikuku
