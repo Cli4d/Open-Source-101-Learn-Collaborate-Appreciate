@@ -7,13 +7,11 @@ This is a markdown file where you can add your favorite GIFs of various categori
 To add a GIF to this file, you need to follow this format:
 
 ```markdown
-
 ### Topic
 
 ![GIF](url)
 
 Added by: Your Name
-
 ```
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
@@ -39,6 +37,9 @@ Here are some categories that you can use to add your GIFs. Feel free to add mor
 ### Funny
 
 This category is for GIFs that make you laugh or smile. You can use any subcategory that relates to humor, such as jokes, pranks, fails, memes, etc.
+![linux](https://media.giphy.com/media/l0Hlw1wlzvxTvxiZG/giphy.gif)
+
+Added By: Albert Kipchirchir
 
 ### Movies
 
