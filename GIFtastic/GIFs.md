@@ -21,9 +21,9 @@ For example, if you want to add a GIF of a funny cat under the category of Anima
 ```markdown
 ### Cats
 
-![GIF](url)
+![GIF](https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif)
 
-Added by: Your Name
+Added by: Clifford Ouma
 
 ```
 
