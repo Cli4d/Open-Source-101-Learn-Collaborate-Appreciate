@@ -22,8 +22,8 @@ You can contribute to this project by adding new GIFs in the various categories 
 - Clone your forked repository on your local machine by running `git clone https://github.com/Cli4d/Open-Source-101-Learn-Collaborate-Appreciate.git` in your terminal.
 - Open the GIFs.md file in your code editor and start adding GIFs. For each GIF, you need to add a heading with the **category or topic** of the GIF, and an **image with the GIF URL**. You also need to add **your signature** below the image to show it was you who added it. For example, you can add a GIF like this:
 
-Funny Cats
-![GIF alt text](url)
+  
+![GIF alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI1cjlzZmpoaG9zemNtYzlvY2UycnlmaG12Mjl2aWxpbmNoZWk0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBL7HcIx0NRYWKRzp0/giphy.gif)
 
 Added by: Your Name
 
