@@ -42,11 +42,15 @@ This category is for GIFs that make you laugh or smile. You can use any subcateg
 
 ![iron man](https://media.giphy.com/media/8xomIW1DRelmo/giphy.gif)
 
+Added by: Kevin Kinyanjui
+
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
 
 ### Superheros
 
 ![marvel](https://media.giphy.com/media/vBjLa5DQwwxbi/giphy.gif)
+
+Added by:Kevin Kinyanjui
 
 This category is for GIFs that relate to superheros or comic books. You can use any subcategory that relates to characters, powers, costumes, etc.
 
