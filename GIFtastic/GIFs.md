@@ -55,3 +55,11 @@ This category is for GIFs that relate to superheros or comic books. You can use 
 ### Animals
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
+
+
+### CARS
+This category of GIFS is for the car enthusiasts who love the comfort and perfomanace of the four-wheeled machines. 
+
+![G-WAGON MERCEDES"I LOVE IT"](https://media.giphy.com/media/0LrlDkl1Ze2UK35nKy/giphy.gif)
+
+![lets see how an audi looks like](https://media.giphy.com/media/3o6gb1kGewr6yDAEq4/giphy.gif)
