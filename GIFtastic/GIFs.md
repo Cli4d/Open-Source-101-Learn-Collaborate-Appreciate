@@ -15,9 +15,19 @@ To add a GIF to this file, you need to follow this format:
 
 Added by: Bonuke King
 
+![GIF](https://media.giphy.com/media/jxTup30VvkvFyKuwtd/giphy.gif)
+
+
+Added by: Bonuke King
+
 ![GIF](https://media.giphy.com/media/4KFvuA2LmYYVv46CNN/giphy.gif)
 
 Added by: Bonuke King
+
+![GIF](https://media.giphy.com/media/dUZ5BNnguY1MpdMh5U/giphy.gif)
+
+Added by: Bonuke King
+
 
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
