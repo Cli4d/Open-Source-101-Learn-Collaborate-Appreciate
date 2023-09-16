@@ -29,6 +29,11 @@ Added by: Clifford Ouma
 
 Added by: Collins Kegode
 
+### Robotics
+![GIF](https://media.giphy.com/media/26AHID1YKctrkymLS/giphy.gif)
+
+Added by: Collins Kegode
+
 You can use any topic that you want, as long as it is appropriate and relevant for this project. You can also create new categories or subcategories if they don't exist yet.
 
 To find a GIF that you want to add, you can use one of the following sources:
