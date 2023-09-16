@@ -49,5 +49,6 @@ This category is for GIFs that relate to movies or TV shows. You can use any sub
 This category is for GIFs that relate to superheros or comic books. You can use any subcategory that relates to characters, powers, costumes, etc.
 
 ### Animals
+![Elephant](https://giphy.com/clips/storyful-easter-nzuKUkQWksJJBw4PIT)
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
