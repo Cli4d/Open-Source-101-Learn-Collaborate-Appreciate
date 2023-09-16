@@ -36,18 +36,35 @@ To find a GIF that you want to add, you can use one of the following sources:
 
 Here are some categories that you can use to add your GIFs. Feel free to add more categories or subcategories as you wish.
 
+
 ### Funny
 
 This category is for GIFs that make you laugh or smile. You can use any subcategory that relates to humor, such as jokes, pranks, fails, memes, etc.
+
+![GIF](https://media2.giphy.com/media/wW95fEq09hOI8/200.webp?cid=ecf05e47bssbdxbuy09wzrwbj92t341m60vgzm8rtii8j7g0&ep=v1_gifs_search&rid=200.webp&ct=g)
+
+Added by: Nasibo Dula
+
 
 ### Movies
 
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
 
+![GIF](https://media1.giphy.com/media/Bzebpz5rnyBb2/100.webp?cid=ecf05e475fy473zcunxgp81p7ceamocx7v0pl7q3xc8j3p84&ep=v1_gifs_search&rid=100.webp&ct=g)
+ 
+Added by: Nasibo Dula
+
 ### Superheros
 
 This category is for GIFs that relate to superheros or comic books. You can use any subcategory that relates to characters, powers, costumes, etc.
+![GIF](https://media0.giphy.com/media/pHYeM3ZlcOPPy3cRcP/200w.webp?cid=ecf05e47yn3yio6vwukatnilqcqjskxzlivqogozb1zzkvtd&ep=v1_gifs_search&rid=200w.webp&ct=g)
+
+Added by: Nasibo Dula
 
 ### Animals
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
+
+![GIf](https://media4.giphy.com/media/142Y941q45XPdm/giphy.webp?cid=ecf05e4792b9pfr0g5il14hymti6ra0qoyzsikgxtph7huol&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+
+Added by: Nasibo Dula
