@@ -51,3 +51,13 @@ This category is for GIFs that relate to superheros or comic books. You can use 
 ### Animals
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
+
+### Zombies
+
+![GIF](https://media.giphy.com/media/bEjHJF3xGpHkL0204W/giphy.gif)
+
+ Added by:Emmanuel Simiyu
+
+After an all-nighter
+The horror night when curiosity turned to practical and medical experiments turned to a tool of appocalypse
+
