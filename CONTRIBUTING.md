@@ -18,9 +18,9 @@ You can contribute to this project by adding new GIFs in the various categories 
 
 ### Adding GIFs
 
-1. Fork this repository on GitHub by clicking the “Fork” button at the top right corner of the repository page.
-2. Clone your forked repository on your local machine by running `git clone https://github.com/Cli4d/Open-Source-101-Learn-Collaborate-Appreciate.git` in your terminal.
-3. Open the GIFs.md file in your code editor and start adding GIFs. For each GIF, you need to add a heading with the **category or topic** of the GIF, and an **image with the GIF URL**. You also need to add **your signature** below the image to show it was you who added it. For example, you can add a GIF like this:
+- Fork this repository on GitHub by clicking the “Fork” button at the top right corner of the repository page.
+- Clone your forked repository on your local machine by running `git clone https://github.com/Cli4d/Open-Source-101-Learn-Collaborate-Appreciate.git` in your terminal.
+- Open the GIFs.md file in your code editor and start adding GIFs. For each GIF, you need to add a heading with the **category or topic** of the GIF, and an **image with the GIF URL**. You also need to add **your signature** below the image to show it was you who added it. For example, you can add a GIF like this:
 
 Funny Cats
 ![GIF alt text](url)
@@ -29,8 +29,8 @@ Added by: Your Name
 
 Feel free to add as many GIFs as you want! Be as creative as you can be here.
 
-1. Add your favorite GIFs to the `GIFs.md` file in the `GIFtastic` directory
-1. Once you have added the GIFs, it’s time to commit and push the changes to your branch. To do this, run the following commands in your terminal:
+- Add your favorite GIFs to the `GIFs.md` file in the `GIFtastic` directory
+- Once you have added the GIFs, it’s time to commit and push the changes to your branch. To do this, run the following commands in your terminal:
 
 ```bash
 git add GIFs.md 
@@ -38,9 +38,9 @@ git commit -m “Add GIFs to <Category>”
 git push origin main
 ```
 
-1. Go to your forked repository on GitHub and create a new pull request from your branch to the main branch of the original repository. This will allow you to submit your changes for review and merge.
+- Go to your forked repository on GitHub and create a new pull request from your branch to the main branch of the original repository. This will allow you to submit your changes for review and merge.
 Add a descriptive title and description for the pull request.
 
-1. Create a pull request to the original repository
-1. Wait for your pull request to be reviewed and merged
-1. Celebrate your contribution!
+- Create a pull request to the original repository
+- Wait for your pull request to be reviewed and merged
+- Celebrate your contribution!
