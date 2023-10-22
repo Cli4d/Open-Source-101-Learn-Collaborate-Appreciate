@@ -40,6 +40,10 @@ Here are some categories that you can use to add your GIFs. Feel free to add mor
 
 This category is for GIFs that make you laugh or smile. You can use any subcategory that relates to humor, such as jokes, pranks, fails, memes, etc.
 
+![GIF](https://media.giphy.com/media/7PXmRK6LV9uoAmyGDs/giphy-downsized-large.gif)
+
+Added by: Patrick Murimi
+
 ### Movies
 
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
