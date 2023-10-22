@@ -7,13 +7,11 @@ This is a markdown file where you can add your favorite GIFs of various categori
 To add a GIF to this file, you need to follow this format:
 
 ```markdown
-
 ### Topic
 
 ![GIF](url)
 
 Added by: Your Name
-
 ```
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
@@ -57,13 +55,23 @@ This category is for GIFs that make you laugh or smile. You can use any subcateg
 
 ![GIF](https://media.giphy.com/media/7PXmRK6LV9uoAmyGDs/giphy-downsized-large.gif)
 
-Added by: Patrick Murimi
 
 ### Movies
-![DC animation](https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif)
+
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
+![DC animation](https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif)
+Added by: Patrick Murimi
+
+
+![iron man](https://media.giphy.com/media/8xomIW1DRelmo/giphy.gif)
+
+Added by: Kevin Kinyanjui
 
 ### Superheros
+
+![marvel](https://media.giphy.com/media/vBjLa5DQwwxbi/giphy.gif)
+
+Added by:Kevin Kinyanjui
 
 This category is for GIFs that relate to superheros or comic books. You can use any subcategory that relates to characters, powers, costumes, etc.
 
