@@ -18,6 +18,12 @@ Added by: Your Name
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
 
+### Dogs
+![GIF](https://giphy.com/gifs/bestfriends-save-them-all-best-friends-animal-society-bfas-2C2qwckZzyiz8UzvzK)
+Added by: Amon
+
+
+
 ### Cats
 
 ![GIF](https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif)
