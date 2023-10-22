@@ -7,22 +7,35 @@ This is a markdown file where you can add your favorite GIFs of various categori
 To add a GIF to this file, you need to follow this format:
 
 ```markdown
-
 ### Topic
 
 ![GIF](url)
 
 Added by: Your Name
-
 ```
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
+
+### Dogs
+![GIF](https://giphy.com/gifs/bestfriends-save-them-all-best-friends-animal-society-bfas-2C2qwckZzyiz8UzvzK)
+Added by: Amon
+
+
 
 ### Cats
 
 ![GIF](https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif)
 
 Added by: Clifford Ouma
+
+### MY GIF
+![GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+
+Added by: Joy Makena
+
+![GIF](https://media.giphy.com/media/7vzoQoXSIsBGwQp6bJ/giphy.gif)
+
+Added by: Raphael 
 
 You can use any topic that you want, as long as it is appropriate and relevant for this project. You can also create new categories or subcategories if they don't exist yet.
 
@@ -40,11 +53,25 @@ Here are some categories that you can use to add your GIFs. Feel free to add mor
 
 This category is for GIFs that make you laugh or smile. You can use any subcategory that relates to humor, such as jokes, pranks, fails, memes, etc.
 
+![GIF](https://media.giphy.com/media/7PXmRK6LV9uoAmyGDs/giphy-downsized-large.gif)
+
+
 ### Movies
 
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
+![DC animation](https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif)
+Added by: Patrick Murimi
+
+
+![iron man](https://media.giphy.com/media/8xomIW1DRelmo/giphy.gif)
+
+Added by: Kevin Kinyanjui
 
 ### Superheros
+
+![marvel](https://media.giphy.com/media/vBjLa5DQwwxbi/giphy.gif)
+
+Added by:Kevin Kinyanjui
 
 This category is for GIFs that relate to superheros or comic books. You can use any subcategory that relates to characters, powers, costumes, etc.
 
@@ -55,7 +82,15 @@ Added by: Dickson
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
 
-
 ![GIF](https://media3.giphy.com/media/OqFpgF7bet1sRoCmpb/200w.webp?cid=ecf05e47er4rr0c0b8ykaddo99pld7ivabmj2oms1pms9w26&ep=v1_gifs_search&rid=200w.webp&ct=g)
 
 Added by: Dickson
+
+### Zombies
+
+![GIF](https://media.giphy.com/media/bEjHJF3xGpHkL0204W/giphy.gif)
+
+ Added by:Emmanuel Simiyu.
+
+After an all-nighter
+The horror night when curiosity turned to practical and medical experiments turned to a tool of appocalypse
