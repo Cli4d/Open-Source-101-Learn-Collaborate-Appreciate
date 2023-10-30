@@ -35,7 +35,7 @@ Added by: Joy Makena
 
 ![GIF](https://media.giphy.com/media/7vzoQoXSIsBGwQp6bJ/giphy.gif)
 
-Added by: Raphael 
+Added by: Raphael
 
 You can use any topic that you want, as long as it is appropriate and relevant for this project. You can also create new categories or subcategories if they don't exist yet.
 
@@ -88,3 +88,7 @@ This category is for GIFs that relate to animals or pets. You can use any subcat
 After an all-nighter
 The horror night when curiosity turned to practical and medical experiments turned to a tool of appocalypse
 
+###seriousness
+![GIF](https://tenor.com/view/danny-de-vito-no-shaking-head-gif-9684558)
+
+Added by: Brian Kimurgor.
