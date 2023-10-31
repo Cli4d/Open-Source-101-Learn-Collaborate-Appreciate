@@ -39,7 +39,7 @@ Added by: Raphael
 
 ### Halloween
 
-![GIF](https://tenor.com/brH15.gif)
+![GIF](https://media.tenor.com/g5CIc-iazc8AAAAd/happy-halloween-dancing.gif)
 
 Added by: Craig
 
