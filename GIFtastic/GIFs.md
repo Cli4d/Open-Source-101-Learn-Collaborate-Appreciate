@@ -37,6 +37,12 @@ Added by: Joy Makena
 
 Added by: Raphael 
 
+### Halloween
+
+![GIF](https://tenor.com/brH15.gif)
+
+Added by: Craig
+
 You can use any topic that you want, as long as it is appropriate and relevant for this project. You can also create new categories or subcategories if they don't exist yet.
 
 To find a GIF that you want to add, you can use one of the following sources:
