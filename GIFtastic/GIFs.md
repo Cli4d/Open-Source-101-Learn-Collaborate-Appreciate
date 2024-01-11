@@ -28,6 +28,12 @@ Added by: Amon
 
 Added by: Clifford Ouma
 
+
+### Cars
+![Cars](https://media4.giphy.com/media/0HR6cjY8Q1XQlmjVVa/giphy.gif)
+
+Added by: [Itsfoss0](https://github.com/Itsfoss0)
+
 ### MY GIF
 ![GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
@@ -36,6 +42,7 @@ Added by: Joy Makena
 ![GIF](https://media.giphy.com/media/7vzoQoXSIsBGwQp6bJ/giphy.gif)
 
 Added by: Raphael 
+
 
 You can use any topic that you want, as long as it is appropriate and relevant for this project. You can also create new categories or subcategories if they don't exist yet.
 
