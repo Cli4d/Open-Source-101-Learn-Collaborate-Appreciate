@@ -7,14 +7,21 @@ This is a markdown file where you can add your favorite GIFs of various categori
 To add a GIF to this file, you need to follow this format:
 
 ```markdown
+
 ### Topic
 
-![GIF](url)
 
 Added by: Your Name
+
 ```
 
 For example, if you want to add a GIF of a funny cat under the category of Animals and the subcategory of Cats, you can do it like this:
+
+### spider man
+
+![GIF](https://media.giphy.com/media/rj12FejFUysTK/giphy.gif)
+
+Added by: julius
 
 ### Dogs
 ![GIF](https://giphy.com/gifs/bestfriends-save-them-all-best-friends-animal-society-bfas-2C2qwckZzyiz8UzvzK)
