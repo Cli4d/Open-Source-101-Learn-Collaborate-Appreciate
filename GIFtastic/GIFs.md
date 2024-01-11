@@ -94,6 +94,16 @@ This category is for GIFs that relate to superheros or comic books. You can use 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
 
 
+### G.O.A.T.S
+
+![RONALDO](https://media.giphy.com/media/ocXjZoA4Eg6D01QA3r/giphy.gif)
+
+![KIPCHOGE](https://media.giphy.com/media/ZbU05heJXilU7YDvYM/giphy.gif)
+
+![MESSI](https://media.giphy.com/media/dUQL2bKltOU7cO9Maw/giphy.gif)
+
+Added by: Shikuku
+
 ### Kenya Sports
 
 ![athlete winning race](https://giphy.com/gifs/forum-ft-fetty-7055aYbIwCxH2)
@@ -108,5 +118,4 @@ Added by: Meshack Kipchirchir
 
 After an all-nighter
 The horror night when curiosity turned to practical and medical experiments turned to a tool of appocalypse
-
 
