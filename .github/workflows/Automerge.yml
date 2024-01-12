@@ -30,8 +30,10 @@ jobs:
     - id: automerge
       name: automerge
       uses: pascalgn/automerge-action@v0.16.2
+      with:
+        github-token: ${{ secrets.PAT }}
       env: 
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PAT }}
         MERGE_METHOD: merge
         MERGE_COMMIT_MESSAGE: automatic
           
