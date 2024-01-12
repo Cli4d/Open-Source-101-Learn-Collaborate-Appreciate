@@ -34,7 +34,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         MERGE_METHOD: merge
         MERGE_COMMIT_MESSAGE: automatic
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
 
 
