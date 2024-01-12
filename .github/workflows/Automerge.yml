@@ -1,0 +1,48 @@
+# # This is a basic workflow to help you get started with Actions
+
+# name: Automerge PRs
+
+# # Controls when the workflow will run
+# on:
+#   # Triggers the workflow on pull request events but only for the "main" branch
+#   pull_request:
+#     branches: [ "main" ]
+#   pull_request_target:
+#     types: [opened, synchronize, reopened, labeled, unlabeled]
+#     branches: [ "main" ]
+
+#   # Allows you to run this workflow manually from the Actions tab
+#   workflow_dispatch:
+
+# # A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# jobs:
+#   # This workflow contains a single job called "automerge"
+#   automerge:
+#     # The type of runner that the job will run on
+#     runs-on: ubuntu-latest
+
+#     steps:
+#     - name: Merge
+#       uses: KeisukeYamashita/auto-pull-request-merge@v1.0.6
+#       with:
+#           intervalSeconds: 10
+#           timeoutSeconds: 30
+#           comment: "Hi @${{ github.actor }}! Thank you for attending the workshop on Open Source. Apologies for it taking me this long to review your pull request. The pull request Looks Good To Me (LGTM) ✅. Continue with your journey of Open Source through the following resources\n- [GitHub Skills](https://skills.github.com/): You can learn more about GitHub including working with GitHub CodeSpaces and collaborating with GitHub\n- [Microsoft Learn GitHub paths](https://learn.microsoft.com/en-us/training/github/): Learn more beginner and advanced concepts on Git and GitHub using Microsoft Learn\n- [Good commits article](https://cbea.ms/git-commit/): Learn how to write good commit messages that communicate the right message\n- [Branching workflows](https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/branching-workflows): Learn about the different branching workflows for your projects and even when working with open source projects\n- Join [Hacktoberfest](https://hacktoberfest.com/): Join the biggest open source movements with thousands of open source projects to contribute to.\n\nYou can access the workshop's slides [here](https://speakerdeck.com/cli4d/open-source-101-learn-collaborate-and-appreciate) which has more resources.\n\nEnjoy your journey in open source!"
+#           labels: "automerge"
+          
+
+
+#     # # Steps represent a sequence of tasks that will be executed as part of the job
+#     # steps:
+#     #   # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+#     #   - uses: actions/checkout@v3
+
+#     #   # Runs a single command using the runners shell
+#     #   - name: Run a one-line script
+#     #     run: echo Hello, world!
+
+#     #   # Runs a set of commands using the runners shell
+#     #   - name: Run a multi-line script
+#     #     run: |
+#     #       echo Add other actions to build,
+#     #       echo test, and deploy your project.
